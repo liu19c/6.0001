@@ -1,7 +1,7 @@
 # Problem Set 1A
 # Name: Caroline Liu
 # Collaborators: N/A
-# Time Spent: 2 hr
+# Time Spent: 3 hrs
 
 '''
 reuse code from problem 2
